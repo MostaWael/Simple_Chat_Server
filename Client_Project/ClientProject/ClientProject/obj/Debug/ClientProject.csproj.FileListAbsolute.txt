@@ -1,0 +1,10 @@
+F:\.NET Course from yasser\.Net Backend\C#\Day11 Implement\ChatServer\Client_Project\ClientProject\ClientProject\bin\Debug\ClientProject.exe.config
+F:\.NET Course from yasser\.Net Backend\C#\Day11 Implement\ChatServer\Client_Project\ClientProject\ClientProject\bin\Debug\ClientProject.exe
+F:\.NET Course from yasser\.Net Backend\C#\Day11 Implement\ChatServer\Client_Project\ClientProject\ClientProject\bin\Debug\ClientProject.pdb
+F:\.NET Course from yasser\.Net Backend\C#\Day11 Implement\ChatServer\Client_Project\ClientProject\ClientProject\obj\Debug\ClientProject.csproj.AssemblyReference.cache
+F:\.NET Course from yasser\.Net Backend\C#\Day11 Implement\ChatServer\Client_Project\ClientProject\ClientProject\obj\Debug\ClientProject.Form1.resources
+F:\.NET Course from yasser\.Net Backend\C#\Day11 Implement\ChatServer\Client_Project\ClientProject\ClientProject\obj\Debug\ClientProject.Properties.Resources.resources
+F:\.NET Course from yasser\.Net Backend\C#\Day11 Implement\ChatServer\Client_Project\ClientProject\ClientProject\obj\Debug\ClientProject.csproj.GenerateResource.cache
+F:\.NET Course from yasser\.Net Backend\C#\Day11 Implement\ChatServer\Client_Project\ClientProject\ClientProject\obj\Debug\ClientProject.csproj.CoreCompileInputs.cache
+F:\.NET Course from yasser\.Net Backend\C#\Day11 Implement\ChatServer\Client_Project\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+F:\.NET Course from yasser\.Net Backend\C#\Day11 Implement\ChatServer\Client_Project\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
